@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mundusu
-- 👀 I’m interested in .NET right now
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in .NET and web development
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on nothing just yet
 - 📫 reach me on email at mundusu.nkumbula@outlook.com
 
